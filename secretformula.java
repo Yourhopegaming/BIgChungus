@@ -1,6 +1,6 @@
 
 /**
- * Write a description of class secretformula here.
+ * demo project for github
  *
  * @author (your name)
  * @version (a version number or a date)
